@@ -1,14 +1,12 @@
-# RhombixTechnologies_Tasks
-This repository contains a network sniffer tool developed for Kali Linux. The tool is designed to capture and analyze network packets.
-
+ 
  
  Features:
 
- -Captures network packets in real-time.
+  -Captures network packets in real-time.
 
- -Analyzes packet data and displays detailed information.
+  -Analyzes packet data and displays detailed information.
 
- -Easy to use and configure.
+  -Easy to use and configure.
   
  
  Follow these steps to install required libraries:
@@ -21,7 +19,8 @@ This repository contains a network sniffer tool developed for Kali Linux. The to
    pip install scapy
 
 
-Usage:
+
+   Usage:
 
 1. Clone the repository:
    git clone https://github.com/Hamzaa121/RhombixTechnologies_Tasks.git
