@@ -29,7 +29,7 @@
    cd RhombixTechnologies_Tasks
 
 3. Run the tool:
-   python3 sniffer.py <target_ip>
+   sudo python3 sniffer.py <target_ip>
    
    Note: Replace <target_ip> with the actual IP address you want to monitor (e.g., 160.162.1.1)
    
