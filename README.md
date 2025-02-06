@@ -1,10 +1,13 @@
  
+
  
  Features:
 
   -Captures network packets in real-time.
 
   -Analyzes packet data and displays detailed information.
+
+  -Generating Report: by pressing (Ctrl+C), it will generate a report with the captured packets.
 
   -Easy to use and configure.
   
@@ -19,7 +22,6 @@
    pip install scapy
 
 
-
    Usage:
 
 1. Clone the repository:
@@ -32,5 +34,14 @@
    sudo python3 sniffer.py <target_ip>
    
    Note: Replace <target_ip> with the actual IP address you want to monitor (e.g., 160.162.1.1)
+
+4. For Genetrate Report:
+   Press Ctrl+C, it will generate a report with the captured packets.
    
-4. To stop the sniffer, press Ctrl + Z. This will suspend the process. If you want to terminate it completely, you can use kill in the terminal.
+5. To stop the sniffer:
+   Press Ctrl + Z. This will suspend the process. If you want to terminate it completely, you just write kill in the terminal.
+
+
+
+
+   
